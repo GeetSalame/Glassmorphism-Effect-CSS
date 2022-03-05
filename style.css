@@ -1,13 +1,22 @@
 /*  -------------------------------------------------------
 
+
 The Glassmorphism Effect code starts from line 72  
+
 
 ---------------------------------------------------------*/
 
+
+/*
+
+These are all just to design rest od the page
+
+*/
 .container {
     padding: 0;
     margin: 0;
 }
+
 .box1 {
     background-image: url('nightBridge.jpg');
     background-size: cover;
@@ -23,6 +32,7 @@ The Glassmorphism Effect code starts from line 72
     justify-content: center;
     /* background-attachment: fixed; */
 }
+
 .box2 {
     background-image: url('leaves.jpg');
     background-size: cover;
@@ -38,6 +48,7 @@ The Glassmorphism Effect code starts from line 72
     justify-content: center;
     /* background-attachment: fixed; */
 }
+
 .box3 {
     background-image: url('bridge.jpg');
     background-size: cover;
@@ -53,16 +64,19 @@ The Glassmorphism Effect code starts from line 72
     justify-content: center;
     /* background-attachment: fixed; */
 }
+
 h1 {
     background-color: rgba(255, 255, 255, 0.425);
     color: black;
     padding: 0 5%;
     border-radius: 5px;
 }
+
 p {
     margin: 0 20%;
     font-size: large;
 }
+
 a {
     color: inherit;
     /* color: rgba(255, 0, 0, 0.664); */
